@@ -1,4 +1,5 @@
 # Redux Toolkit
+![2022-11-16_22h29_10](https://user-images.githubusercontent.com/13697123/202355542-a52d2f72-cb88-49cf-b620-c6bb46c3ead2.png)
 
 ## Original video tutorial 
 
